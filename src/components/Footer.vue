@@ -6,7 +6,7 @@
           <span class="u-text-custom-color-7">UP</span>
         </h4>
         <h4 class="u-custom-font u-font-lato u-text u-text-custom-color-7 u-text-2">Social Media</h4>
-        <h4 class="u-custom-font u-font-lato u-text u-text-custom-color-7 u-text-3">Explore</h4>
+        <h4 class="u-custom-font u-font-lato u-text u-text-custom-color-7 u-text-3">Exple</h4>
         <h4 class="u-custom-font u-font-lato u-text u-text-custom-color-7 u-text-4">Legal</h4>
         <div class="u-align-left u-social-icons u-spacing-10 u-social-icons-1">
           <a class="u-social-url" title="facebook" target="_blank" href=""><span class="u-icon u-social-facebook u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-9e55"></use></svg><svg class="u-svg-content" viewBox="0 0 112 112" x="0" y="0" id="svg-9e55"><circle fill="currentColor" cx="56.1" cy="56.1" r="55"></circle><path fill="#FFFFFF" d="M73.5,31.6h-9.1c-1.4,0-3.6,0.8-3.6,3.9v8.5h12.6L72,58.3H60.8v40.8H43.9V58.3h-8V43.9h8v-9.2
