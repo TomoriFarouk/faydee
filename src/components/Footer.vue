@@ -1,6 +1,6 @@
 <template>
 <div>
-     <footer class="u-clearfix u-custom-color-3 u-footer" id="sec-5d43"><div class="u-clearfix u-sheet u-sheet-1">
+       <footer class="u-clearfix u-custom-color-3 u-footer" id="sec-5d43"><div class="u-clearfix u-sheet u-sheet-1">
         <h4 class="u-custom-font u-font-lato u-text u-text-default u-text-1">
           <span class="u-text-palette-2-base">Ship</span>
           <span class="u-text-custom-color-7">UP</span>

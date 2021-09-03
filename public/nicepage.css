@@ -5596,6 +5596,10 @@ a:focus {
 .u-sheet-left {
   left: calc((100% - 1140px) / 2);
 }
+@media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 641px;
+  }
 .u-sheet-right {
   right: calc((100% - 1140px) / 2);
 }
