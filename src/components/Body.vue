@@ -102,7 +102,9 @@
                     </div>
                   </div>
                   <div class="u-container-style u-image u-layout-cell u-size-30 u-image-2" data-image-width="577" data-image-height="433">
-                    <div class="u-container-layout u-container-layout-2"></div>
+                    <div class="u-container-layout u-container-layout-2">
+                          <img class="u-absolute-hcenter-xs u-expanded u-image u-image-default" src="../assets/images/error.png" alt="" data-image-width="1200" data-image-height="900">
+                    </div>
                   </div>
                 </div>
               </div>
