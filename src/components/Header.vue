@@ -1,7 +1,7 @@
 <template>
     <div> 
-        <header class="u-clearfix u-header u-header" id="sec-8aae"><div class="u-clearfix u-sheet u-sheet-1">
-        <nav class=" u-menu u-menu-dropdown u-offcanvas u-menu-1">
+       <header class="u-clearfix u-header u-header" id="sec-8aae"><div class="u-clearfix u-sheet u-sheet-1">
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
             <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
               <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
@@ -35,8 +35,9 @@
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
         </nav>
-        <a href="https://nicepage.com/k/dog-website-templates" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-hover-palette-2-base u-none u-radius-6 u-text-body-color u-text-hover-white u-btn-1">Button</a>
-        <a href="https://nicepage.com/k/dog-website-templates" class="u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-custom-color-1 u-hover-palette-2-base u-radius-6 u-text-body-color u-text-hover-white u-btn-2">Button</a>
+        <a href="https://nicepage.com/k/dog-website-templates" class="u-border-2 u-border-custom-color-4 u-btn u-btn-round u-button-style u-hover-custom-color-5 u-none u-radius-6 u-text-body-color u-text-hover-white u-btn-1">Request Quote</a>
+        <a href="https://nicepage.com/k/dog-website-templates" class="u-border-2 u-border-custom-color-4 u-btn u-btn-round u-button-style u-custom-color-4 u-hover-custom-color-5 u-radius-6 u-text-body-alt-color u-text-hover-white u-btn-2">Join Now<span class="u-text-white"></span>
+        </a>
         <p class="u-text u-text-default u-text-1">Ship<span class="u-text-palette-3-light-1">Up</span>
         </p>
       </div></header>
